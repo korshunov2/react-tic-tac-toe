@@ -19,29 +19,23 @@ This is a simple Tic-Tac-Toe game built with React. It demonstrates basic React 
 
 1. Clone the repository:
 
-   \```bash
    git clone https://github.com/korshunov2/react-tic-tac-toe.git
-   \```
+ 
 
 2. Navigate to the project directory:
 
-   \```bash
    cd react-tic-tac-toe
-   \```
+
 
 3. Install the dependencies:
 
-   \```bash
    npm install
-   \```
 
 ### Running the Game
 
 Start the development server:
 
-\```bash
 npm start
-\```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -49,17 +43,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 To run the tests for the application:
 
-\```bash
 npm test
-\```
 
 ### Deployment
 
 To build the project for production, run:
 
-\```bash
 npm run build
-\```
 
 ## Contributing
 
